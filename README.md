@@ -1,2 +1,2 @@
 # Enterprise-Sales-Intellignce-for-CRM-and-ERP
-Building a modern data warehouse with MySQL, including ETL process, data modeling, and EDA 
+Building a modern Data WareHouse with MySQL, including ETL process, Data Modeling, and EDA.
